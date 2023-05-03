@@ -1,7 +1,7 @@
 {
   "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
-    "appName": "My JupyterLite App",
+    "appName": "My JupyterLite App 1",
     "enableMemoryStorage": true,
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "settingsStorageDrivers": ["memoryStorageDriver"],
