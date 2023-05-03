@@ -1,9 +1,9 @@
 {
   "jupyter-lite-schema-version": 0,
-  "enableMemoryStorage": true,
-  "contentsStorageDrivers": ["memoryStorageDriver"],
-  "settingsStorageDrivers": ["memoryStorageDriver"],
   "jupyter-config-data": {
+    "enableMemoryStorage": true,
+    "contentsStorageDrivers": ["memoryStorageDriver"],
+    "settingsStorageDrivers": ["memoryStorageDriver"],
     "disabledExtensions": [
       "@jupyterlab/drawio-extension",
       "jupyterlab-kernel-spy",
